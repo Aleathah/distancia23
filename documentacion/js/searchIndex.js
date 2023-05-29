@@ -1,0 +1,54 @@
+Search.appendIndex(
+    [
+                {
+            "fqsen": "\\suma\u0028\u0029",
+            "name": "suma",
+            "summary": "Devuelve\u0020la\u0020suma\u0020de\u0020los\u0020argumentos\u0020enviados\u0020en\u0020la\u0020llamada",
+            "url": "namespaces/default.html#function_suma"
+        },                {
+            "fqsen": "\\multiplica\u0028\u0029",
+            "name": "multiplica",
+            "summary": "Devuelve\u0020el\u0020producto\u0020de\u0020los\u0020argumentos\u0020enviados\u0020en\u0020la\u0020llamada",
+            "url": "namespaces/default.html#function_multiplica"
+        },                {
+            "fqsen": "\\divide\u0028\u0029",
+            "name": "divide",
+            "summary": "Devuelve\u0020el\u0020resultado\u0020de\u0020la\u0020divisi\u00F3n\u0020de\u0020los\u0020argumentos\u0020enviados\u0020en\u0020la\u0020llamada",
+            "url": "namespaces/default.html#function_divide"
+        },                {
+            "fqsen": "\\saluda\u0028\u0029",
+            "name": "saluda",
+            "summary": "Devuelve\u0020un\u0020saludo\u0020con\u0020el\u0020nombre\u0020que\u0020le\u0020enviamos\u0020en\u0020la\u0020llamada",
+            "url": "namespaces/default.html#function_saluda"
+        },                {
+            "fqsen": "\\Calculadora",
+            "name": "Calculadora",
+            "summary": "Clase\u0020que\u0020implementa\u0020una\u0020calculadora\u0020con\u0020tres\u0020m\u00E9todos\u003A\u0020saluda\u0028est\u00E1tico\u0029,\u0020multiplica\u0020y\u0020divide",
+            "url": "classes/Calculadora.html"
+        },                {
+            "fqsen": "\\Calculadora\u003A\u003ACalculadora\u0028\u0029",
+            "name": "Calculadora",
+            "summary": "M\u00E9todo\u0020constructor\u0020de\u0020la\u0020clase\u0020Calculadora\nNo\u0020recibe\u0020par\u00E1metros\u0020y\u0020no\u0020devuelve\u0020nada",
+            "url": "classes/Calculadora.html#method_Calculadora"
+        },                {
+            "fqsen": "\\Calculadora\u003A\u003Asaluda\u0028\u0029",
+            "name": "saluda",
+            "summary": "M\u00E9todo\u0020est\u00E1tico\u0020que\u0020devuelve\u0020un\u0020saludo\u0020con\u0020el\u0020nombre\u0020que\u0020le\u0020enviamos\u0020en\u0020la\u0020llamada",
+            "url": "classes/Calculadora.html#method_saluda"
+        },                {
+            "fqsen": "\\Calculadora\u003A\u003AMultiplica\u0028\u0029",
+            "name": "Multiplica",
+            "summary": "Devuelve\u0020el\u0020producto\u0020de\u0020los\u0020argumentos\u0020enviados\u0020en\u0020la\u0020llamada",
+            "url": "classes/Calculadora.html#method_Multiplica"
+        },                {
+            "fqsen": "\\Calculadora\u003A\u003ADivide\u0028\u0029",
+            "name": "Divide",
+            "summary": "Devuelve\u0020el\u0020resultado\u0020de\u0020la\u0020divisi\u00F3n\u0020de\u0020los\u0020argumentos\u0020enviados\u0020en\u0020la\u0020llamada",
+            "url": "classes/Calculadora.html#method_Divide"
+        },                {
+            "fqsen": "\\",
+            "name": "\\",
+            "summary": "",
+            "url": "namespaces/default.html"
+        }            ]
+);
