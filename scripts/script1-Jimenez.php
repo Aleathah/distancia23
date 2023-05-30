@@ -2,7 +2,7 @@
 /**
 * Contiene tres funciones: multiplica, divide y saluda
 * @author Laura Jimenez Jimenez
-* @version 1.0.1
+* @version 1.0.2
 */
 
 /**

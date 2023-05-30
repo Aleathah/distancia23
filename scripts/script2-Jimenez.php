@@ -1,7 +1,7 @@
 <?php 
     /**
-    * Clase que implementa una calculadora con tres métodos: saluda(estático), multiplica y divide
-    * @see saluda()
+    * Clase que implementa una calculadora con tres métodos: saludar(estático), multiplica y divide
+    * @see saludar()
     * @see multiplica()
     * @see divide()
     * @author Laura Jimenez Jimenez
@@ -24,7 +24,7 @@
         * @return string Saludo a la persona solcitada
         * @static
         */
-        public static function saluda($nombre)
+        public static function saludar($nombre)
         {
          echo "Hola ".$nombre.".<br>";
         }
@@ -58,7 +58,7 @@
     // Inicializamos la clase
     $calc = new Calculadora();
 
-    Calculadora::saluda('Laura');
+    Calculadora::saludar('Laura');
     $resultadoMultiplica = $calc->Multiplica(25,5);
     $resultadoDivide = $calc->Divide(25,5);
 
